@@ -1,6 +1,7 @@
 ---
 name: sansan-action
 description: 用阿德勒心理学框架诊断执行阻滞。用户知道该做什么却迟迟不做、反复拖延或行动中断时使用。
+version: 1.0.1
 ---
 
 # sansan-action：执行力诊断
@@ -279,3 +280,10 @@ description: 用阿德勒心理学框架诊断执行阻滞。用户知道该做�
 ---
 
 完成当前任务后直接结束。
+
+## 作者与支持
+
+- 作者：sansan（[GitHub 主页](https://github.com/sansan19900801)）
+- 如需加入付费答疑群，可扫码或打开[答疑群说明](https://mp.weixin.qq.com/s/3wporFEz1cGNWslmZsgPKw)
+
+![付费答疑群二维码](https://raw.githubusercontent.com/sansan19900801/sansan-action/main/assets/support-qr.jpg)
